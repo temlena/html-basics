@@ -1,0 +1,15 @@
+body{
+    background-color: #ffff;
+    padding: 0 3rem;
+    width: 50%;
+}
+span{
+    opacity: 0.8;
+}
+.container{
+    display: flex;
+    gap:2rem;
+}
+.flex-item{
+   margin-top: 5px; 
+}
